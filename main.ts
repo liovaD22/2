@@ -1,0 +1,11 @@
+player.onItemInteracted(WOODEN_SHOVEL, function () {
+    blocks.place(CHERRY_PLANKS, posCamera(1, 0, 3))
+    blocks.place(CHERRY_PLANKS, posCamera(0, 1, 4))
+    blocks.place(CHERRY_PLANKS, posCamera(0, 0, 4))
+    blocks.place(CHERRY_PRESSURE_PLATE, posCamera(0, 0, 2))
+    blocks.place(CHERRY_PLANKS, posCamera(-1, 0, 3))
+    blocks.place(CHERRY_PLANKS, posCamera(1, 1, 3))
+    blocks.place(CHERRY_PLANKS, posCamera(-1, 1, 3))
+    blocks.place(BIRCH_DOOR, posCamera(0, 0, 3))
+    blocks.place(CHERRY_SLAB, posCamera(0, 2, 3))
+})
