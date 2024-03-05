@@ -1,4 +1,4 @@
-
+wooden showel = mini house use the extention in Minecraft Education
 > Открыть эту страницу в [https://liovad22.github.io/2/](https://liovad22.github.io/2/)
 
 ## Использовать это расширение
